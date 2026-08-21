@@ -26,4 +26,5 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add data.json
           git commit -m "Auto-update parking & nextbike data [skip ci]" || exit 0
+          git pull --rebase origin main
           git push
