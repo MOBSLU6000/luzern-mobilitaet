@@ -19299,5 +19299,53 @@
       }
     ],
     "nextbike": []
+  },
+  {
+    "timestamp": "2026-08-31T02:53:53.022176+00:00",
+    "parking": [
+      {
+        "id": "1",
+        "title": "Bahnhof",
+        "free": 45,
+        "total": 500
+      },
+      {
+        "id": "2",
+        "title": "Kesselturm",
+        "free": 18,
+        "total": 280
+      },
+      {
+        "id": "3",
+        "title": "Altstadt",
+        "free": 8,
+        "total": 220
+      },
+      {
+        "id": "4",
+        "title": "Kasernenplatz",
+        "free": 82,
+        "total": 340
+      },
+      {
+        "id": "5",
+        "title": "Musegg",
+        "free": 110,
+        "total": 330
+      },
+      {
+        "id": "6",
+        "title": "Schweizerhof",
+        "free": 25,
+        "total": 250
+      },
+      {
+        "id": "7",
+        "title": "City-Parking",
+        "free": 140,
+        "total": 640
+      }
+    ],
+    "nextbike": []
   }
 ]
